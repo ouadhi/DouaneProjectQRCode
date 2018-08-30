@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Douane App </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="paralax">info declaration </string>
+    <string name="operateur">operateur</string>
+</resources>
